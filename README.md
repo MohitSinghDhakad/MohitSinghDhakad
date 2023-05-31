@@ -1,4 +1,12 @@
-### Hi there 👋
+![Sunrise Anime Road Sky Clouds Wallpaper 4K HD PC 4820f](https://github.com/MohitSinghDhakad/MohitSinghDhakad/assets/104711950/511ae9b8-6cf1-495a-b366-f692bf6be2ae)
+<br>
+
+### Hi there 👋 
+- 🙂 My name is Mohit Singh .<br>
+- 🌱 I am currently pursuing B.Tech in Computer Science and Engineering at IIT Goa.<br>
+
+
+
 
 <!--
 **MohitSinghDhakad/MohitSinghDhakad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
