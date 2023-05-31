@@ -2,7 +2,7 @@
 <br>
 
 ### Hi there 👋 
-- 🙂 My name is Mohit Singh .<br>
+- 🙂 My name is Mohit Singh.<br>
 - 🌱 I am currently pursuing B.Tech in Computer Science and Engineering at IIT Goa.<br>
 
 
